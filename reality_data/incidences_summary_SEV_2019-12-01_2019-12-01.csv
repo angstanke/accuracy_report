@@ -1,0 +1,9 @@
+,Order Type,val
+0,Total,2789
+1,Cancelled,484
+2,Delivered,2305
+3,Reassigned,164
+4,Manual_Assignment,40
+5,Orphan,69
+6,Cancelled Reassignments,31
+7,Orders_without_incidences,2067
